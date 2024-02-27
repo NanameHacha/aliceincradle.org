@@ -7,6 +7,7 @@ aliceincradle.org已停用，此域名未来也不再由Alice In Cradle 官方�
 - Official Website：
   - https://aliceincradle.com
 - Official Download Website：
+  - https://get.aliceincradle.com
   - https://get.aliceincradle.dev
 - Official Download Website for Mainland of China：
   - https://cn.aliceincradle.com
