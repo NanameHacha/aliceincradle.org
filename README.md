@@ -4,11 +4,11 @@ aliceincradle.org已停用，此域名未来也不再由Alice In Cradle 官方�
 
 - Wiki：
   - https://aicwiki.com
-- Official Website：
+- 官网：
   - https://aliceincradle.com
-- Official Download Website：
+- 游戏下载官网：
   - https://get.aliceincradle.com
   - https://get.aliceincradle.dev
-- Official Download Website for Mainland of China：
+- 中国大陆官网(含游戏下载)：
   - https://cn.aliceincradle.com
   - https://cn.aliceincradle.dev
